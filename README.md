@@ -47,20 +47,7 @@ I develop projects that connect mathematical modeling, data analysis, and comput
 
 ## Most Used Languages
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipePessoa30&layout=donut&langs_count=8&theme=transparent&hide_border=true&exclude_repo=Projeto,Praticando,jogo-advinha-em-c,jogo-da-forca-em-c" />
-</p>
-
-## Featured Projects
-
-<p align="center">
-  <a href="https://github.com/FilipePessoa30/MulticriteriaMicrogrid">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FilipePessoa30&repo=MulticriteriaMicrogrid&theme=transparent&hide_border=true" />
-  </a>
-  <a href="https://github.com/FilipePessoa30/Montreal-Tour-Planning">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FilipePessoa30&repo=Montreal-Tour-Planning&theme=transparent&hide_border=true" />
-  </a>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipePessoa30&layout=compact)
 
 ---
 
