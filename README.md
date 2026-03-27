@@ -8,11 +8,14 @@ I build decision-support systems, optimization models, and applied analytics pro
   <a href="http://lattes.cnpq.br/7332331924010123">
     <img src="https://img.shields.io/badge/Lattes-CNPq%20CV-1F5AA6?style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/feed/">
+  <a href="https://www.linkedin.com/in/filipe-pessoa-sousa-75ba28188/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://orcid.org/0009-0003-6356-0013">
     <img src="https://img.shields.io/badge/ORCID-0009--0003--6356--0013-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+  </a>
+  <a href="mailto:Filipe.pessoa18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Filipe.pessoa18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -44,17 +47,72 @@ I develop projects that connect mathematical modeling, data analysis, and comput
 
 ## Featured Work
 
-### [MulticriteriaMicrogrid](https://github.com/FilipePessoa30/MulticriteriaMicrogrid)
-Multi-criteria decision model for renewable microgrid operation using **AHP**, **MCDM methods**, and **metaheuristic weight optimization**.
-
-### [Montreal-Tour-Planning](https://github.com/FilipePessoa30/Montreal-Tour-Planning)
-Multi-objective tourist itinerary planning project using **MOVNS** and **NSGA-II**, optimizing quality, time, cost, and number of attractions.
-
-### [SQL_Pandas](https://github.com/FilipePessoa30/SQL_Pandas)
-Data analysis and manipulation exercises combining **SQL workflows** and **Pandas** for practical analytics tasks.
-
-### [Fuzzy_PLN](https://github.com/FilipePessoa30/Fuzzy_PLN)
-Study and experimentation repository connecting **fuzzy logic** and **natural language processing**.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/FilipePessoa30/MulticriteriaMicrogrid">MulticriteriaMicrogrid</a></h3>
+      <p>
+        Multi-criteria decision model for renewable microgrid operation using
+        <b>AHP</b>, <b>MCDM</b>, and <b>metaheuristic weight optimization</b>.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/AHP-MCDM-4B0082?style=flat-square" />
+        <img src="https://img.shields.io/badge/Metaheuristics-Optimization-006400?style=flat-square" />
+      </p>
+      <p>
+        <a href="https://github.com/FilipePessoa30/MulticriteriaMicrogrid">Repository</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/FilipePessoa30/Montreal-Tour-Planning">Montreal-Tour-Planning</a></h3>
+      <p>
+        Multi-objective tourist itinerary planning with
+        <b>MOVNS</b> and <b>NSGA-II</b>, optimizing quality, time, cost, and attractions.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/MOVNS-NSGA--II-8B0000?style=flat-square" />
+        <img src="https://img.shields.io/badge/Multi--Objective-Optimization-1E90FF?style=flat-square" />
+      </p>
+      <p>
+        <a href="https://github.com/FilipePessoa30/Montreal-Tour-Planning">Repository</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/FilipePessoa30/Segmentacao_imagem_fuzzy">Segmentacao_imagem_fuzzy</a></h3>
+      <p>
+        Experiments in fuzzy and intuitionistic fuzzy image segmentation across
+        RGB, CIELAB, and HSV color spaces.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Fuzzy-Image%20Segmentation-DA70D6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Computer%20Vision-Research-2F4F4F?style=flat-square" />
+      </p>
+      <p>
+        <a href="https://github.com/FilipePessoa30/Segmentacao_imagem_fuzzy">Repository</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/FilipePessoa30/Predicted_INPC">Predicted_INPC</a></h3>
+      <p>
+        Inflation analysis and forecasting experiments using statistical and
+        machine learning approaches.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Forecasting-Time%20Series-4169E1?style=flat-square" />
+        <img src="https://img.shields.io/badge/Data%20Science-Economics-708090?style=flat-square" />
+      </p>
+      <p>
+        <a href="https://github.com/FilipePessoa30/Predicted_INPC">Repository</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -69,18 +127,9 @@ Study and experimentation repository connecting **fuzzy logic** and **natural la
 
 ---
 
-## GitHub Stats
-
-<p align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FilipePessoa30&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipePessoa30&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
-</p>
-
----
-
 ## Contact
 
-- Lattes: http://lattes.cnpq.br/7332331924010123
-- LinkedIn: https://www.linkedin.com/feed/
-- ORCID: https://orcid.org/0009-0003-6356-0013
-- E-mail: Filipe.pessoa18@gmail.com
+- **Email:** Filipe.pessoa18@gmail.com
+- **Lattes:** [Currículo Lattes](http://lattes.cnpq.br/7332331924010123)
+- **ORCID:** [0009-0003-6356-0013](https://orcid.org/0009-0003-6356-0013)
+- **LinkedIn:** [Perfil](https://www.linkedin.com/in/filipe-pessoa-sousa-75ba28188/)
