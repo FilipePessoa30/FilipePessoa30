@@ -16,12 +16,11 @@ I build decision-support systems, optimization models, and applied analytics pro
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<a href="https://github.com/FilipePessoa30">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FilipePessoa30&show_icons=true&theme=transparent&include_all_commits=true"/>
-</a>
-<a href="https://github.com/FilipePessoa30">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipePessoa30&layout=compact&langs_count=8&theme=transparent"/>
-</a>
+
+## Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipePessoa30&layout=compact&langs_count=8&theme=transparent)
+
 ## Featured work
 - MulticriteriaMicrogrid
 - Montreal-Tour-Planning
