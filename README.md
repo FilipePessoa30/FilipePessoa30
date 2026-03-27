@@ -47,8 +47,8 @@ I develop projects that connect mathematical modeling, data analysis, and comput
 
 ## Most Used Languages
 
-![Top languages by repo](./profile-summary-card-output/default/1-repos-per-language.svg)
-![Top languages by commit](./profile-summary-card-output/default/2-most-commit-language.svg)
+[![Top languages by repo](https://raw.githubusercontent.com/FilipePessoa30/FilipePessoa30/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Top languages by commit](https://raw.githubusercontent.com/FilipePessoa30/FilipePessoa30/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
 
