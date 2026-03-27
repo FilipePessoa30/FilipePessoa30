@@ -45,6 +45,14 @@ I develop projects that connect mathematical modeling, data analysis, and comput
 
 ---
 
+## Most Used Languages
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipePessoa30&layout=donut&langs_count=8&theme=transparent&hide_border=true" />
+</p>
+
+---
+
 ## Featured Work
 
 <table>
