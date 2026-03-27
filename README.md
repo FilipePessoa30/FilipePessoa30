@@ -16,6 +16,9 @@ I build decision-support systems, optimization models, and applied analytics pro
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+## Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipePessoa30&layout=compact&langs_count=8)
 
 ## Linguagens mais usadas
 
