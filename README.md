@@ -130,6 +130,6 @@ I develop projects that connect mathematical modeling, data analysis, and comput
 ## Contact
 
 - **Email:** Filipe.pessoa18@gmail.com
-- **Lattes:** [Currículo Lattes](http://lattes.cnpq.br/7332331924010123)
+- **Lattes:** [Lattes Curriculum](http://lattes.cnpq.br/7332331924010123)
 - **ORCID:** [0009-0003-6356-0013](https://orcid.org/0009-0003-6356-0013)
-- **LinkedIn:** [Perfil](https://www.linkedin.com/in/filipe-pessoa-sousa-75ba28188/)
+- **LinkedIn:** [Profile](https://www.linkedin.com/in/filipe-pessoa-sousa-75ba28188/)
