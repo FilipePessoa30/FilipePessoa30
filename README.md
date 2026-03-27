@@ -47,7 +47,8 @@ I develop projects that connect mathematical modeling, data analysis, and comput
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipePessoa30&layout=compact)
+![Top languages by repo](./profile-summary-card-output/default/1-repos-per-language.svg)
+![Top languages by commit](./profile-summary-card-output/default/2-most-commit-language.svg)
 
 ---
 
