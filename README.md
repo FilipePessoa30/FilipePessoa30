@@ -28,21 +28,108 @@ I develop projects that connect mathematical modeling, data analysis, and comput
 
 ---
 
-## Tech Stack
+## 🧰 My favorite tools and technologies
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=python" width="48" />
+      <br>Python
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" />
+      <br>C++
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=r" width="48" />
+      <br>R
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=js" width="48" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=cs" width="48" />
+      <br>C#
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="48" />
+      <br>React
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" />
+      <br>Node.js
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="48" />
+      <br>HTML5
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="48" />
+      <br>CSS3
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" />
+      <br>MySQL
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" />
+      <br>PostgreSQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="48" />
+      <br>Git
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="48" />
+      <br>GitHub
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" />
+      <br>VS Code
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=latex" width="48" />
+      <br>LaTeX
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" />
+      <br>Docker
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" />
+      <br>AWS
+    </td>
+  </tr>
+</table>
 
+
+---
+
+## 📊 GitHub analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=FilipePessoa30&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipePessoa30&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+
+## 📈 Contribution activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FilipePessoa30&theme=github-compact&hide_border=true&area=true" />
 
 ---
 
@@ -127,6 +214,16 @@ I develop projects that connect mathematical modeling, data analysis, and comput
 - Decision-Support Systems
 
 ---
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/FilipePessoa30/FilipePessoa30/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
 
 ## Contact
 
